@@ -1,7 +1,7 @@
 # Basic Information 
 title: Tanapoom Sermchaiwong
-position: MPhil Student
-affiliation: HKUST
+# position: MPhil Student
+# affiliation: HKUST
 email: tanapoom.se (at) gmail.com
 
 # Search Engine Optimization (SEO)
@@ -15,6 +15,7 @@ canonical: https://tanapthetimid.github.io/
 # google_scholar: https://scholar.google.com/
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/tanapthetimid
+affiliation_link: https://cse.hkust.edu.hk/
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
