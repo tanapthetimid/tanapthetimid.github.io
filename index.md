@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am an incoming MPhil student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/)
+I am an MPhil student in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/)
 at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
-supervised by [Professor Jiasi Shen](https://shenjiasi.com/)
+supervised by [Professor Jiasi Shen](https://shenjiasi.com/).
+My research interest lies at the intersection of PL and Security,
+and applying graph-based program analysis techniques to improve software.
 
 ## Education
 
+- (2024 - Present) MPhil in Computer Science and Engineering. HKUST.
 - (2019 - 2024) B.S. in Department of Mathematical Sciences. KAIST.
 
 ## Experiences
