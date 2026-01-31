@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications" style="margin-bottom: -65px;">
+<div class="publications" style="margin-bottom: -40px;">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
