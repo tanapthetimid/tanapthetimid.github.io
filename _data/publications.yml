@@ -1,11 +1,11 @@
 main:
 
-  - title: "Proof-of-Theft: Dynamic Graph-based Fingerprinting of In-browser Cryptomining"
+  - title: "Proof-of-Theft: Dynamic Graph-Based Fingerprinting of In-Browser Cryptomining"
     authors: <strong>Tanapoom Sermchaiwong</strong>, Jiasi Shen
-  #  conference_short: MICCAI
-  #  conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2505.02493v1
-    notes: To appear in ECOOP 2026
+    conference_short: ECOOP 2026
+    conference: 40th European Conference on Object-Oriented Programming
+    page: https://doi.org/10.4230/LIPIcs.ECOOP.2026.25
+    preprint: https://arxiv.org/pdf/2505.02493v1
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
