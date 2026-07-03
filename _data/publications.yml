@@ -5,6 +5,7 @@ main:
     conference_short: ECOOP 2026
     conference: 40th European Conference on Object-Oriented Programming (ECOOP 2026)
     page: https://doi.org/10.4230/LIPIcs.ECOOP.2026.25
+    slides: ./assets/pdf/ECOOP-POT-presentation.pdf
     preprint: https://arxiv.org/pdf/2505.02493v1
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
