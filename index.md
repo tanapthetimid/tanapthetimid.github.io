@@ -4,15 +4,17 @@ layout: homepage
 
 ## About Me
 
-I will be starting my PhD this fall in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/)
+I am currently working on my PhD in the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/)
 at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)
 supervised by [Professor Jiasi Shen](https://shenjiasi.com/).
-My research interests are around the intersection of PL and Security, in particular
-applying program analysis techniques to find faults in software.
+Presently trying to solve the world's problem, one DSL at a time.
+In other words, I research the intersection of PL and Security
+to find faults in software and prevent them from happening again.
 
 ## Education
 
-- (2024 - 2026 expected) MPhil in Computer Science and Engineering. HKUST.
+- (2026 - Present) PhD in Computer Science and Engineering. HKUST.
+- (2024 - 2026) MPhil in Computer Science and Engineering. HKUST.
 - (2019 - 2024) B.S. in Department of Mathematical Sciences. KAIST.
 
 {% include_relative _includes/publications.md %}
@@ -21,8 +23,8 @@ applying program analysis techniques to find faults in software.
 
 ## Previous Experiences
 
-- Internship, [KAIST Concurrency and Parallelism Lab](https://cp.kaist.ac.kr/), Feb.2024 - Jun.2024
+- [KAIST Concurrency and Parallelism Lab](https://cp.kaist.ac.kr/), Feb.2024 - Jun.2024
     - Hardware description languages, AI hardware design
-- Internship, [Prosys Lab @ KAIST](https://prosys.kaist.ac.kr/), Jun.2023 - Feb.2024
+- [Prosys Lab @ KAIST](https://prosys.kaist.ac.kr/), Jun.2023 - Feb.2024
     - Directed graybox fuzzing, code pruning, parallelization of static analysis
 
